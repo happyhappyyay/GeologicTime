@@ -1,0 +1,15 @@
+body{
+    background-color: #414a4c;
+    font-family: "Dejavu Sans";
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    display: flex;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}

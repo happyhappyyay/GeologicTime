@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    background: linear-gradient(#ffffff00 0%,#ffffff00 40%,black 40%,#ffffff00 50%);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    overflow: visible;
+}
+
+.mobile {
+    flex-direction: column;
+}
+
+.circle{
+    height: 75vmin;
+    width: 75vmin;
+    position: relative;
+    border: 1vmin solid;
+    border-radius: 50%;
+    margin: 7vh auto;
+}
